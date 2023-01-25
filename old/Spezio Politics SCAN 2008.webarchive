@@ -1,0 +1,2158 @@
+bplist00Ò_WebMainResource_WebSubframeArchivesÕ	
+^WebResourceURL_WebResourceTextEncodingName_WebResourceMIMEType_WebResourceData_WebResourceFrameName_2http://scan.oxfordjournals.org/cgi/reprint/3/4/344UUTF-8Ytext/htmlO<html><head>
+<title>
+	
+	
+	A neural basis for the effect of candidate appearance on election outcomes -- Spezio et al. 3 (4): 344 -- Social Cognitive and Affective Neuroscience</title>
+
+<script language="JavaScript">
+    // In IE 5.0+, warn user that you can't print this page this way
+    // (will have no effect in other browsers)
+    function handleOnBeforePrint() {
+        alert('Note: if you are trying to print a document in PDF format and ' +
+              'you do not get the expected results, please make sure to use the ' +
+              'printer icon in the Adobe Acrobat toolbar, located immediately ' +
+              'above the document.');
+        window.printalert = true;
+    }
+    window.onbeforeprint = handleOnBeforePrint;
+</script>
+<meta name="citation_journal_title" content="Social Cognitive and Affective Neuroscience"><meta name="citation_issn" content="1749-5016"><meta name="citation_authors" content="Spezio, Michael L.; Rangel, Antonio; Alvarez, Ramon Michael; O'Doherty, John P.; Mattes, Kyle; Todorov, Alexander; Kim, Hackjin; Adolphs, Ralph"><meta name="citation_title" content="A neural basis for the effect of candidate appearance on election outcomes"><meta name="citation_date" content="12/01/2008"><meta name="citation_volume" content="3"><meta name="citation_issue" content="4"><meta name="citation_firstpage" content="344"><meta name="citation_id" content="3/4/344"><meta name="citation_mjid" content="scan;3/4/344"><meta name="citation_doi" content="10.1093/scan/nsn040"><meta name="citation_abstract_html_url" content="http://scan.oxfordjournals.org/cgi/content/abstract/3/4/344"><meta name="citation_fulltext_html_url" content="http://scan.oxfordjournals.org/cgi/content/full/3/4/344"><meta name="citation_pdf_url" content="http://scan.oxfordjournals.org/cgi/reprint/3/4/344.pdf"><meta name="citation_pmid" content="19015087"><meta name="dc.Contributor" content="Spezio, Michael L."><meta name="dc.Contributor" content="Rangel, Antonio"><meta name="dc.Contributor" content="Alvarez, Ramon Michael"><meta name="dc.Contributor" content="O'Doherty, John P."><meta name="dc.Contributor" content="Mattes, Kyle"><meta name="dc.Contributor" content="Todorov, Alexander"><meta name="dc.Contributor" content="Kim, Hackjin"><meta name="dc.Contributor" content="Adolphs, Ralph"><meta name="dc.Title" content="A neural basis for the effect of candidate appearance on election outcomes"><meta name="dc.Identifier" content="10.1093/scan/nsn040"><meta name="dc.Date" content="12/01/2008"></head><frameset cols="*,250" frameborder="0">
+   <frame src="/cgi/reprintframed/3/4/344?" name="reprint" scrolling="auto">
+  <frame src="/cgi/reprintsidebar/3/4/344?&amp;frameset_url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344" name="sidebar" scrolling="auto">
+   
+</frameset></html>Zmainwindow¡Ò_WebSubresourcesÕ
+_Šhttp://scan.oxfordjournals.org/cgi/reprintsidebar/3/4/344?&frameset_url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344O\e<html><head>
+<title>
+	
+	
+	A neural basis for the effect of candidate appearance on election outcomes -- Spezio et al. 3 (4): 344 -- Social Cognitive and Affective Neuroscience</title>
+<base target="_top">
+
+	<!-- has inhead tag -->
+	
+		 
+	
+		
+	
+		
+<style type="text/css"><!--
+	@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style>
+<!-- ac in the head available -->
+
+ 
+
+		<style type="text/css"><!--
+table.content_box_outer_table {
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-right:0px;
+	}
+
+table.content_box_outer_table_in_sidebar_frame {
+	padding-left:10px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-right:10px;
+	}
+
+table.content_box_inner_table {
+	background-color:#f0f0f0;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	}
+
+table.content_box_pdfinframes {
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:4px;
+	}
+
+td.content_box_title_highlight {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#000066;
+	font-size:120%;
+	font-weight:bold;
+	text-align:center;
+	padding:1px;
+	vertical-align:middle;
+	}
+
+td.content_box_title {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#828282;
+	font-size:120%;
+	font-weight:bold;
+	padding:1px;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td.content_box_space_between_sections {
+	padding-top:2px;
+	}
+
+td.content_box_arrow {
+	text-align:right;
+	padding-left:5px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_item {
+	text-align:left;
+	vertical-align:top;
+	padding-left:3px;
+	padding-right:5px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_pdfinframes_citation_cell {
+	background-color:#ffffff;
+	border:1px #000000 solid;
+	padding:3px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	text-align:left;
+	}
+
+
+font.openaccess {
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#ffffff;
+	}
+font.openaccess_open {
+	color:#000000;
+	}
+font.openaccess_access {
+	color:#cc0000;
+	}
+font.openaccess_oa {
+	}
+.content_box_openaccess_title {
+	text-align:center;
+	white-space:nowrap;
+	background-color:#BABABA;
+	}
+
+
+
+
+div.referrer-based-search-line {
+	font-family: arial,sans-serif;
+	font-size: 0.75em;
+	background-color: #009918;
+	padding: 3px 25px;
+	margin: 0px 4px 5px 0px;
+}
+
+div.referrer-based-search-line .search-terms{
+	font-weight: bold;
+}
+
+div.referrer-based-search-line .collection-name{
+	font-style: italic;
+}
+
+@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style>
+
+		
+<!-- START HIGHWIRE INHEAD.MC -->
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<style type="text/css" media="screen">
+@import "/resource/css/hw.css";
+@import "/resource/css/scan.css";
+</style>
+<link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print">
+<script type="text/javascript" src="/resource/js/main.js"></script>
+<!-- END HIGHWIRE INHEAD.MC -->
+
+		
+	    <script language="javascript">
+		<!-- 
+	function popwin(url,wid,hei,fromtop,fromleft) {
+		var winPref = "channelmode=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=no,width=" + wid + ",height=" + hei + ",top=" + fromtop + ",left=" + fromleft;
+		window.open(url, "popwin", winPref);
+	}
+	// -->
+	</script>
+        <script type="text/javascript" src="/javascript/ajax/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/javascript/ajax/utility.js"></script>
+<script type="text/javascript" src="/javascript/entrez/callback.js"></script>
+
+	
+		
+	
+	
+<link rel="alternate" type="application/rss+xml" title="Soc Cogn Affect Neurosci current issue" href="http://scan.oxfordjournals.org/rss/current.xml"> 
+<link rel="alternate" type="application/rss+xml" title="Soc Cogn Affect Neurosci latest 3 issues" href="http://scan.oxfordjournals.org/rss/recent.xml"> 
+<link rel="alternate" type="application/rss+xml" title="Soc Cogn Affect Neurosci Advance Access articles" href="http://scan.oxfordjournals.org/rss/ahead.xml"> 
+
+
+
+
+
+
+<meta name="citation_journal_title" content="Social Cognitive and Affective Neuroscience">
+<meta name="citation_issn" content="1749-5016">
+
+<meta name="citation_authors" content="Spezio, Michael L.; Rangel, Antonio; Alvarez, Ramon Michael; O'Doherty, John P.; Mattes, Kyle; Todorov, Alexander; Kim, Hackjin; Adolphs, Ralph">
+<meta name="citation_title" content="A neural basis for the effect of candidate appearance on election outcomes">
+<meta name="citation_date" content="12/01/2008">
+<meta name="citation_volume" content="3">
+<meta name="citation_issue" content="4">
+<meta name="citation_firstpage" content="344">
+<meta name="citation_id" content="3/4/344">
+<meta name="citation_mjid" content="scan;3/4/344">
+<meta name="citation_doi" content="10.1093/scan/nsn040">
+<meta name="citation_abstract_html_url" content="http://scan.oxfordjournals.org/cgi/content/abstract/3/4/344">
+<meta name="citation_fulltext_html_url" content="http://scan.oxfordjournals.org/cgi/content/full/3/4/344">
+<meta name="citation_pdf_url" content="http://scan.oxfordjournals.org/cgi/reprint/3/4/344.pdf">
+<meta name="citation_pmid" content="19015087">
+
+<meta name="dc.Contributor" content="Spezio, Michael L.">
+<meta name="dc.Contributor" content="Rangel, Antonio">
+<meta name="dc.Contributor" content="Alvarez, Ramon Michael">
+<meta name="dc.Contributor" content="O'Doherty, John P.">
+<meta name="dc.Contributor" content="Mattes, Kyle">
+<meta name="dc.Contributor" content="Todorov, Alexander">
+<meta name="dc.Contributor" content="Kim, Hackjin">
+<meta name="dc.Contributor" content="Adolphs, Ralph">
+<meta name="dc.Title" content="A neural basis for the effect of candidate appearance on election outcomes">
+<meta name="dc.Identifier" content="10.1093/scan/nsn040">
+<meta name="dc.Date" content="12/01/2008">
+
+<script type="text/javascript" src="/javascript/ajax/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/javascript/ajax/utility.js"></script>
+<script type="text/javascript" src="/javascript/entrez/callback.js"></script>
+
+<script language="JavaScript"><!--
+    // In IE 5.0+, warn user that you can't print this page this way
+    // (will have no effect in other browsers)
+    function handleOnBeforePrint() {
+        var framesetWarned = window.parent.printalert;
+        if (framesetWarned) {
+            window.parent.printalert = false;
+        } else {
+            alert('Note: if you are trying to print a document in PDF format and ' +
+                  'you do not get the expected results, please make sure to use the ' +
+                  'printer icon in the Adobe Acrobat toolbar, located immediately ' +
+                  'above the document.');
+        }
+    }
+    window.onbeforeprint = handleOnBeforePrint;
+    // -->
+</script>
+</head><body bgcolor="#DBDBDB" style="background-color: DBDBDB">
+
+	<div align="center">
+
+	<table cellpadding="0" cellspacing="1" border="0" bgcolor="#BABABA"><tbody><tr><td>
+	<table cellpadding="0" cellspacing="3" border="0" bgcolor="#ffffff" id="sidebar_contentbox"><tbody><tr><td>
+	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr><td align="center"><a target="_top" style="text-decoration: none" href="/"><img border="0" width="220" height="44" alt="Soc Cogn Affect Neurosci" src="/icons/banner/title.gif"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+	<img alt=" " width="1" height="6" src="/icons/spacer.gif">
+	
+	
+	
+		<table cellpadding="2" cellspacing="0" border="0"><tbody><tr>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">JOURNAL HOME</font></a></td><td><img alt=" " width="1" height="1" src="/icons/spacer.gif"></td>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/help/"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">HELP</font></a></td><td><img alt=" " width="1" height="1" src="/icons/spacer.gif"></td>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/cgi/feedback"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">FEEDBACK</font></a></td>
+		</tr></tbody></table><img alt=" " width="1" height="3" src="/icons/spacer.gif">
+		<table cellpadding="2" cellspacing="0" border="0"><tbody><tr>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/subscriptions/"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">SUBSCRIPTIONS</font></a></td><td><img alt=" " width="1" height="1" src="/icons/spacer.gif"></td>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/archive/"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">ARCHIVE</font></a></td><td><img alt=" " width="1" height="1" src="/icons/spacer.gif"></td>
+			<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/search.dtl"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">SEARCH</font></a></td>
+		</tr></tbody></table><img alt=" " width="1" height="3" src="/icons/spacer.gif">
+		<table cellpadding="2" cellspacing="0" border="0"><tbody><tr>
+			
+
+
+<td align="CENTER" valign="TOP" bgcolor="000066" nowrap=""><a target="_top" style="text-decoration: none" href="/content/vol3/issue4/index.dtl"><font size="-2" color="#FFFFFF" face="verdana,arial,helvetica,sans-serif">TABLE OF CONTENTS</font></a></td>
+		</tr></tbody></table>
+	
+
+	
+	
+		<table class="content_box_outer_table_in_sidebar_frame">
+	
+
+<!-- beginning of inner table -->
+	</table><table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+		<tbody><tr><td class="content_box_title_highlight" colspan="2">This Article</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+		
+		
+		<tr><td colspan="2">
+			<table cellpadding="0" cellspacing="0" border="0" class="content_box_pdfinframes">
+			<tbody><tr>
+				<td align="right" valign="middle"><img alt="Left arrow" width="13" height="25" border="0" src="/icons/shared/misc/bigtrirevT.gif"></td>
+				<td class="content_box_pdfinframes_citation_cell">
+		
+				PDF version of:<br>
+					<strong>Spezio et al. 3 (4): 344. (2008)</strong></td>
+		</tr>
+		</tbody></table>
+	</td></tr> 
+	
+
+	
+		
+			
+
+				
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/3/4/344">
+				Abstract</a></strong>
+				 					<img alt="Freely available" width="32" height="7" border="0" src="/icons/shared/toc/free.gif">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+	
+
+	
+
+	
+		
+			
+
+				
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+					
+						
+					
+					<strong><a href="/cgi/content/full/3/4/344">
+					<strong>Full Text</strong>  (HTML) </a>
+
+</strong>
+				</td></tr>
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+			
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/content/full/nsn040/DC1">
+				Supplementary Data</a></strong>
+			</td></tr>
+			
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+		
+		
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item"><strong>
+			All Versions of this Article:<br>
+		
+			
+					3/4/344
+				
+		Â Â Â <font color="#000066"><em>most recent</em></font><br>
+	
+
+	
+		
+		
+			<a href="/cgi/content/short/nsn040v1">
+					nsn040v1</a>
+			
+		</strong></td></tr>
+	
+
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong>
+
+	<strong><a href="/cgi/eletter-submit/3/4/344">
+	
+		E-letters:
+		Submit a response</a></strong></strong>
+			</td></tr>
+		 
+	
+         
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=scan;3/4/344&amp;return_type=article&amp;return_url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344">
+				Alert me when this article is cited</a></strong>
+			</td></tr>
+	
+
+		
+		
+			
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;saveAlert=no&amp;eletter_criteria_value=3/4/344&amp;return_type=article&amp;return_url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344">
+				Alert me when E-letters are posted</a></strong>
+			</td></tr>
+			
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=3/4/344&amp;return_type=article&amp;return_url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344">
+				Alert me if a correction is posted</a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr><tr><td class="content_box_title" colspan="2">Services</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fscan.oxfordjournals.org%2Fcgi%2Freprint%2F3%2F4%2F344&amp;title=A+neural+basis+for+the+effect+of+candidate+appearance+on+election+outcomes">
+				Email this article to a friend</a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=scan;nsn040&amp;journalcode=scan&amp;minscore=5000">
+		Similar articles in this journal</a>
+		</strong>
+		</td></tr>
+
+		
+		
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=19015087&amp;link_type=MED_NBRS">
+				Similar articles in PubMed</a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc">
+				Alert me to new issues of the journal</a></strong>
+			</td></tr>
+		
+
+		
+		
+		
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=scan;3/4/344">
+				Add to My Personal Archive</a></strong>
+			</td></tr>
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=scan;3/4/344">
+			Download to citation manager</a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+		
+		
+	
+
+	
+	
+	
+	
+	
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+		
+
+		
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+			<strong><a href="/cgi/reprintspermissions?citation=Spezio+et+al.+3+%284%29%3A+344">
+			Request Permissions</a></strong>
+		</td></tr>
+		
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr><tr><td class="content_box_title" colspan="2">Google Scholar</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+						
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AM. L.+author%3ASpezio%22">
+							Articles by Spezio, M. L.</a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AR.+author%3AAdolphs%22">
+							Articles by Adolphs, R.</a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+		
+	
+	
+
+		
+			
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr><tr><td class="content_box_title" colspan="2">PubMed</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+			
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=19015087&amp;link_type=PUBMED">
+				PubMed Citation</a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Spezio+ML&amp;link_type=AUTHORSEARCH">
+							Articles by Spezio, M. L.</a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td width="4" class="content_box_arrow" valign="top"><img alt="Right arrow" width="4" height="11" border="0" src="/icons/shared/misc/arrowTtrim.gif"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Adolphs+R&amp;link_type=AUTHORSEARCH">
+							Articles by Adolphs, R.</a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr><tr><td class="content_box_title" colspan="2">Social Bookmarking</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+	<tr><td class="content_box_arrow"><img alt=" " width="4" height="11" border="0" src="/icons/spacer.gif"></td><td class="content_box_item">
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://scan.oxfordjournals.org/cgi/content/long/3/4/344&amp;title=A+neural+basis+for+the+effect+of+candidate+appearance+on+election+outcomes+--+Spezio+et+al.+3+%284%29%3A+344+--+Soc+Cogn+Affect+Neurosci&amp;doi=10.1093/scan/nsn040&amp;link_type=CITEULIKE" title="CiteULike"><img src="/icons/shared/socbookmark/citeulike.gif" border="0" alt="Add to CiteULike"></a>Â Â 
+			
+		
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://scan.oxfordjournals.org/cgi/content/long/3/4/344&amp;title=A+neural+basis+for+the+effect+of+candidate+appearance+on+election+outcomes+--+Spezio+et+al.+3+%284%29%3A+344+--+Soc+Cogn+Affect+Neurosci&amp;doi=10.1093/scan/nsn040&amp;link_type=CONNOTEA" title="Connotea"><img src="/icons/shared/socbookmark/connotea.gif" border="0" alt="Add to Connotea"></a>Â Â 
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://scan.oxfordjournals.org/cgi/content/long/3/4/344&amp;title=A+neural+basis+for+the+effect+of+candidate+appearance+on+election+outcomes+--+Spezio+et+al.+3+%284%29%3A+344+--+Soc+Cogn+Affect+Neurosci&amp;doi=10.1093/scan/nsn040&amp;link_type=DEL_ICIO_US" title="Del.icio.us"><img src="/icons/shared/socbookmark/delicious.gif" border="0" alt="Add to Del.icio.us"></a>Â Â 
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		<br><a href="http://www.oxfordjournals.org/help/features/index.html#socialbookmarking">What's this?</a>
+	</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+	
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr><tr><td class="content_box_title" colspan="2">Help</td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " width="200" height="1" src="/icons/spacer.gif"></td></tr>
+	<tr><td class="content_box_arrow"><img alt=" " width="4" height="11" border="0" src="/icons/spacer.gif"></td><td class="content_box_item">
+		<strong>Adobe Acrobat plugin users:</strong><br>
+		<a target="_top" href="/cgi/reprint/3/4/344.pdf">
+		View article in full window</a>
+		<p>
+		<strong>Printing problems?</strong><br>
+		To print a PDF using the Acrobat plugin, use the printer button in the plugin's toolbar, located immediately above the document.
+
+		</p><p><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_top">Download Adobe Reader</a>
+	</p></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+ 
+
+
+	<p style="margin:10px;"><!-- subline logic: standard default -->
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+
+	
+	
+	
+	
+		  
+	<!-- NOT GUEST -->
+	
+
+	
+
+
+
+ 
+
+</p>
+	
+	</div>
+ 
+
+
+
+</body></html>Wsidebar­!%)-26:>BFJÔ_WebResourceResponse_5http://scan.oxfordjournals.org/resource/css/print.cssOQbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_5http://scan.oxfordjournals.org/resource/css/print.cssÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@G)³ÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Fri, 21 Apr 2006 11:45:47 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Xtext/css_Tue, 06 Jan 2009 05:06:04 GMTR95^xrdn2gn312.JS1_"15744c-5f-4448c5eb"Ò./cd£de2_NSMutableDictionary\NSDictionary_Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+FKT_bhqz|ƒ‹–˜£¥§©«­¯±³µ·ÂÄÆÈÊÌÎĞÒÔÖäïı%<GLlw}°¹ÙÜë!.059M             k              [Xtext/cssO_body {
+	font-family: serif;
+}
+
+p.hide, #primary_nav, #secondary_nav {
+	display: none;
+}
+Ô _2http://scan.oxfordjournals.org/resource/js/main.jsOebplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_2http://scan.oxfordjournals.org/resource/js/main.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@H<óÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Tue, 19 Aug 2008 09:15:05 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2_application/x-javascript_Tue, 06 Jan 2009 05:06:04 GMTT7073^xrdn2gn312.JS1_"159172-1ba1-48aa8f19"Ò./cd£de2_NSMutableDictionary\NSDictionary¡Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+CHQ\_enwy€ˆ“• ¢¤¦¨ª¬®°²´¿ÁÃÅÇÉËÍÏÑÓáìú"9DIitz­Èèíü4ADIMa             k              o_application/x-javascriptO¡ï»¿function redirect(targ,selObj,restore) {
+    eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+    if (restore) selObj.selectedIndex=0;
+}
+
+function prepareErrorLinks() {
+    if( ! document.getElementsByTagName ) return false;
+    if( ! document.getElementById ) return false;
+    if( ! document.getElementById( "validationerror" ) ) return false;
+    var errorLinks = document.getElementById( "validationerror" ).getElementsByTagName( "a" );
+    for( var i=0; i < errorLinks.length; i++ ) {
+        errorLinks[i].onclick = function() {
+            var objectId = this.href.substr( this.href.indexOf( "#" ) + 1 );
+            if( document.getElementById(objectId) ) {
+                document.getElementById(objectId).focus();
+            }
+        }
+    }
+}
+
+window.onload = prepareErrorLinks;
+
+var supported = ( document.layers || document.getElementById || document.all );
+
+function encrypt(part1,part2,part3) {
+    var all= 'mai'+'lto:'+part1+"@"+part2;
+    if( part3 ) all += '?Sub'+'ject='+part3; document.location.href=eval('"'+all+'"');
+}
+
+function toggle_display( id ) {
+    if( supported ) {
+        if( document.layers && document.layers[id] ) {
+            document.layers[id].display = ( document.layers[id].display == 'block' ? 'none' : 'block' );
+        } else if( document.getElementById && document.getElementById(id) ) {
+            document.getElementById(id).style.display = ( document.getElementById(id).style.display == 'block' ? 'none' : 'block' );
+        } else if( document.all && document.all[id] ) {
+            document.all[id].style.display = ( document.all[id].style.display == 'block' ? 'none' : 'block' );
+        }
+    }
+}
+
+function hide( id ) {
+    if( supported ) {
+        if( document.layers && document.layers[id] ) {
+            document.layers[id].display = 'none';
+        } else if( document.getElementById && document.getElementById(id) ) {
+            document.getElementById(id).style.display = 'none';
+        } else if( document.all && document.all[id] ) {
+            document.all[id].style.display = 'none';
+        }
+    }
+}
+
+function unhide( id, display ) {
+    // Default to display at block level
+    if( ! display ) display = 'block';
+
+    if( supported ) {
+        // As IE does not support table-row, translate it to block
+        if( navigator.appName == 'Microsoft Internet Explorer' && display == 'table-row' ) display = 'block';
+
+        if( document.layers && document.layers[id] ) {
+            document.layers[id].display = display;
+        } else if( document.getElementById && document.getElementById(id) ) {
+            document.getElementById(id).style.display = display;
+        } else if( document.all && document.all[id] ) {
+            document.all[id].style.display = display;
+        }
+    }
+}
+
+function visible( id ) {
+     if( supported ) {
+         if( document.layers && document.layers[id] ) {
+             if( document.layers[id].display == 'none' ) return 0;
+         } else if( document.getElementById && document.getElementById(id) ) {
+             if( document.getElementById(id).style.display == 'none' ) return 0;
+         } else if( document.all && document.all[id] ) {
+             if( document.all[id].style.display == 'none' ) return 0;
+         }
+         return 1;
+    }
+    return 0;
+}
+
+function removeSpaces(string) {
+     var tstring = "";
+     string = '' + string;
+     splitstring = string.split(" ");
+     for(i = 0; i < splitstring.length; i++) tstring += splitstring[i];
+     return tstring;
+}
+
+var selectItems = new Object();
+
+function setOptions( listname, selectedItem, optionList ) {
+     optionList.options.length = 0;
+     optionList[0] = new Option( "Please select", "", true, false );
+
+     if( selectItems[listname][selectedItem] ) {
+        var newList = selectItems[listname][selectedItem];
+        if( selectedItem != "" ) {
+            for( var i = 0; i < newList.length; i++ ) {
+                optionList.options[i+1] = new Option( newList[i].text, newList[i].value ? newList[i].value : newList[i].text );
+            }
+        }
+    }
+}
+
+// Return the absolute Y position of an element on a page (from the top of the page, NOT visible screen)
+function findPos(obj) {
+        var curtop = 0;
+        var bodyBorder=-document.body.offsetTop||document.body.clientTop;
+        if (navigator.userAgent.indexOf("MSIE")!=-1) { curtop-=8 } 
+        if (obj.offsetParent) {
+                do {
+                        curtop += obj.offsetTop;
+                } while (obj = obj.offsetParent);
+        }
+        return curtop+bodyBorder;
+}
+
+// Update the floating help window. Leave htext blank to hide again.
+function help_window(htext,field){
+ var hw = document.getElementById("help_window");
+ if(hw != undefined ){
+   if(htext == ''){
+     hw.className="hidden";
+   } else {
+        hw.innerHTML=htext;
+        hw.className="help_window";
+        hw.style.top=findPos(field)+"px";
+   }
+ }
+}
+
+//Archive list interactivity functions
+var tick_archive=new Array("Humanities", "Law", "Medicine", "Science", "Social Sciences");
+var tick_archive_x=new Array(true, true, true, true, true);
+var tick_year=new Array();
+var tick_year_x=new Array();
+var tick_status=new Array("I", "E", "L");
+var tick_status_x=new Array(true, true, true);
+var line_id=new Array();
+var line_archives=new Array();
+var line_year_joined=new Array();
+var line_status=new Array();
+var year_count=-1;
+var line_count=-1;
+
+function add_year(year_to_add) {
+  year_count+=1;
+  tick_year[year_count]=year_to_add;
+  tick_year_x[year_count]=true;
+}
+
+function filter() {
+  for(var i=0; i<=line_count; i++) {
+    var ok="";
+	for(var j=0; j<tick_archive.length; j++) {
+	  var s=line_archives[i].split(", ");
+	  for(var a=0; a<s.length; a++) {
+		if((s[a] == tick_archive[j]) && (tick_archive_x[j] == true)) { ok="a"; }
+	  }
+	}
+	for(var j=0; j<tick_year.length; j++) {
+	  if((line_year_joined[i] == tick_year[j]) && (tick_year_x[j] == true)) { ok+="y"; }
+	} 
+	for(var j=0; j<tick_status.length; j++) {
+	  if((line_status[i] == tick_status[j]) && (tick_status_x[j] == true)) { ok+="s"; }
+	}
+	var r=document.getElementById("row"+line_id[i]);
+	if(ok == "ays") {
+		if(navigator.appName == 'Microsoft Internet Explorer') { 
+			r.style.display = 'block';
+		} else {
+			r.style.display = 'table-row';
+		}
+	} else {
+	  r.style.display="none"; 
+	}
+  }
+}
+
+
+function tickbox_change(tickbox) {
+  var name=tickbox.name;
+  var value=tickbox.value;
+  var checked=tickbox.checked;
+  switch(name) {
+  	case "Archive": tick_archive_x[value]=checked; break;
+	case "Year"   : tick_year_x[value]=checked; break;
+	case "Status" : tick_status_x[value]=checked;
+  }
+  filter();
+}
+
+function archive_line(id, archives, year_joined, status) {
+  line_count++;
+  line_id[line_count]=id;
+  line_archives[line_count]=archives;
+  line_year_joined[line_count]=year_joined;
+  line_status[line_count]=status;
+}Ô"#$_@http://scan.oxfordjournals.org/javascript/ajax/xmlhttprequest.jsOrbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_@http://scan.oxfordjournals.org/javascript/ajax/xmlhttprequest.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@½­ÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Mon, 24 Apr 2006 22:57:19 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2_application/x-javascript_Tue, 06 Jan 2009 05:06:04 GMTT8394^xrdn2gn312.JS1_"14a4c-20ca-444d57cf"Ò./cd£de2_NSMutableDictionary\NSDictionary ÊÒ./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+QV_jms|…‡–¡£®°²´¶¸º¼¾ÀÂÍÏÑÓÕ×ÙÛİßáïú!0GRWw‚ˆ»Ööû
+"'+ANQVZn             k              |O Ê/*
+
+Cross-Browser XMLHttpRequest v1.2
+=================================
+
+Emulate Gecko 'XMLHttpRequest()' functionality in IE and Opera. Opera requires
+the Sun Java Runtime Environment <http://www.java.com/>.
+
+by Andrew Gregory
+http://www.scss.com.au/family/andrew/webdesign/xmlhttprequest/
+
+This work is licensed under the Creative Commons Attribution License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/ or
+send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California
+94305, USA.
+
+Attribution: Leave my name and web address in this script intact.
+
+Not Supported in Opera
+----------------------
+* user/password authentication
+* responseXML data member
+
+Not Fully Supported in Opera
+----------------------------
+* async requests
+* abort()
+* getAllResponseHeaders(), getAllResponseHeader(header)
+
+*/
+// IE support
+if (window.ActiveXObject && !window.XMLHttpRequest) {
+  window.XMLHttpRequest = function() {
+    var msxmls = new Array(
+      'Msxml2.XMLHTTP.5.0',
+      'Msxml2.XMLHTTP.4.0',
+      'Msxml2.XMLHTTP.3.0',
+      'Msxml2.XMLHTTP',
+      'Microsoft.XMLHTTP');
+    for (var i = 0; i < msxmls.length; i++) {
+      try {
+        return new ActiveXObject(msxmls[i]);
+      } catch (e) {
+      }
+    }
+    return null;
+  };
+}
+// Gecko support
+/* ;-) */
+// Opera support
+if (window.opera && !window.XMLHttpRequest) {
+  window.XMLHttpRequest = function() {
+    this.readyState = 0; // 0=uninitialized,1=loading,2=loaded,3=interactive,4=complete
+    this.status = 0; // HTTP status codes
+    this.statusText = '';
+    this._headers = [];
+    this._aborted = false;
+    this._async = true;
+    this._defaultCharset = 'ISO-8859-1';
+    this._getCharset = function() {
+      var charset = _defaultCharset;
+      var contentType = this.getResponseHeader('Content-type').toUpperCase();
+      val = contentType.indexOf('CHARSET=');
+      if (val != -1) {
+        charset = contentType.substring(val);
+      }
+      val = charset.indexOf(';');
+      if (val != -1) {
+        charset = charset.substring(0, val);
+      }
+      val = charset.indexOf(',');
+      if (val != -1) {
+        charset = charset.substring(0, val);
+      }
+      return charset;
+    };
+    this.abort = function() {
+      this._aborted = true;
+    };
+    this.getAllResponseHeaders = function() {
+      return this.getAllResponseHeader('*');
+    };
+    this.getAllResponseHeader = function(header) {
+      var ret = '';
+      for (var i = 0; i < this._headers.length; i++) {
+        if (header == '*' || this._headers[i].h == header) {
+          ret += this._headers[i].h + ': ' + this._headers[i].v + '\n';
+        }
+      }
+      return ret;
+    };
+    this.getResponseHeader = function(header) {
+      var ret = getAllResponseHeader(header);
+      var i = ret.indexOf('\n');
+      if (i != -1) {
+        ret = ret.substring(0, i);
+      }
+      return ret;
+    };
+    this.setRequestHeader = function(header, value) {
+      this._headers[this._headers.length] = {h:header, v:value};
+    };
+    this.open = function(method, url, async, user, password) {
+      this.method = method;
+      this.url = url;
+      this._async = true;
+      this._aborted = false;
+      this._headers = [];
+      if (arguments.length >= 3) {
+        this._async = async;
+      }
+      if (arguments.length > 3) {
+        opera.postError('XMLHttpRequest.open() - user/password not supported');
+      }
+      this.readyState = 1;
+      if (this.onreadystatechange) {
+        this.onreadystatechange();
+      }
+    };
+    this.send = function(data) {
+      if (!navigator.javaEnabled()) {
+        alert("XMLHttpRequest.send() - Java must be installed and enabled.");
+        return;
+      }
+      if (this._async) {
+        setTimeout(this._sendasync, 0, this, data);
+        // this is not really asynchronous and won't execute until the current
+        // execution context ends
+      } else {
+        this._sendsync(data);
+      }
+    }
+    this._sendasync = function(req, data) {
+      if (!req._aborted) {
+        req._sendsync(data);
+      }
+    };
+    this._sendsync = function(data) {
+      this.readyState = 2;
+      if (this.onreadystatechange) {
+        this.onreadystatechange();
+      }
+      // open connection
+      var url = new java.net.URL(new java.net.URL(window.location.href), this.url);
+      var conn = url.openConnection();
+      for (var i = 0; i < this._headers.length; i++) {
+        conn.setRequestProperty(this._headers[i].h, this._headers[i].v);
+      }
+      this._headers = [];
+      if (this.method == 'POST') {
+        // POST data
+        conn.setDoOutput(true);
+        var wr = new java.io.OutputStreamWriter(conn.getOutputStream(), this._getCharset());
+        wr.write(data);
+        wr.flush();
+        wr.close();
+      }
+      // read response headers
+      // NOTE: the getHeaderField() methods always return nulls for me :(
+      var gotContentEncoding = false;
+      var gotContentLength = false;
+      var gotContentType = false;
+      var gotDate = false;
+      var gotExpiration = false;
+      var gotLastModified = false;
+      for (var i = 0; ; i++) {
+        var hdrName = conn.getHeaderFieldKey(i);
+        var hdrValue = conn.getHeaderField(i);
+        if (hdrName == null && hdrValue == null) {
+          break;
+        }
+        if (hdrName != null) {
+          this._headers[this._headers.length] = {h:hdrName, v:hdrValue};
+          switch (hdrName.toLowerCase()) {
+            case 'content-encoding': gotContentEncoding = true; break;
+            case 'content-length'  : gotContentLength   = true; break;
+            case 'content-type'    : gotContentType     = true; break;
+            case 'date'            : gotDate            = true; break;
+            case 'expires'         : gotExpiration      = true; break;
+            case 'last-modified'   : gotLastModified    = true; break;
+          }
+        }
+      }
+      // try to fill in any missing header information
+      var val;
+      val = conn.getContentEncoding();
+      if (val != null && !gotContentEncoding) this._headers[this._headers.length] = {h:'Content-encoding', v:val};
+      val = conn.getContentLength();
+      if (val != -1 && !gotContentLength) this._headers[this._headers.length] = {h:'Content-length', v:val};
+      val = conn.getContentType();
+      if (val != null && !gotContentType) this._headers[this._headers.length] = {h:'Content-type', v:val};
+      val = conn.getDate();
+      if (val != 0 && !gotDate) this._headers[this._headers.length] = {h:'Date', v:(new Date(val)).toUTCString()};
+      val = conn.getExpiration();
+      if (val != 0 && !gotExpiration) this._headers[this._headers.length] = {h:'Expires', v:(new Date(val)).toUTCString()};
+      val = conn.getLastModified();
+      if (val != 0 && !gotLastModified) this._headers[this._headers.length] = {h:'Last-modified', v:(new Date(val)).toUTCString()};
+      // read response data
+      var reqdata = '';
+      var stream = conn.getInputStream();
+      if (stream) {
+        var reader = new java.io.BufferedReader(new java.io.InputStreamReader(stream, this._getCharset()));
+        var line;
+        while ((line = reader.readLine()) != null) {
+          if (this.readyState == 2) {
+            this.readyState = 3;
+            if (this.onreadystatechange) {
+              this.onreadystatechange();
+            }
+          }
+          reqdata += line + '\n';
+        }
+        reader.close();
+        this.status = 200;
+        this.statusText = 'OK';
+        this.responseText = reqdata;
+        this.readyState = 4;
+        if (this.onreadystatechange) {
+          this.onreadystatechange();
+        }
+        if (this.onload) {
+          this.onload();
+        }
+      } else {
+        // error
+        this.status = 404;
+        this.statusText = 'Not Found';
+        this.responseText = '';
+        this.readyState = 4;
+        if (this.onreadystatechange) {
+          this.onreadystatechange();
+        }
+        if (this.onerror) {
+          this.onerror();
+        }
+      }
+    };
+  };
+}
+// ActiveXObject emulation
+if (!window.ActiveXObject && window.XMLHttpRequest) {
+  window.ActiveXObject = function(type) {
+    switch (type.toLowerCase()) {
+      case 'microsoft.xmlhttp':
+      case 'msxml2.xmlhttp':
+      case 'msxml2.xmlhttp.3.0':
+      case 'msxml2.xmlhttp.4.0':
+      case 'msxml2.xmlhttp.5.0':
+        return new XMLHttpRequest();
+    }
+    return null;
+  };
+}
+Ô&'(_9http://scan.oxfordjournals.org/javascript/ajax/utility.jsOlbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_9http://scan.oxfordjournals.org/javascript/ajax/utility.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@×YÍÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Thu, 27 Apr 2006 16:07:56 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2_application/x-javascript_Tue, 06 Jan 2009 05:06:04 GMTU14971^xrdn2gn312.JS1_"14a4b-3a7b-4450ec5c"Ò./cd£de2_NSMutableDictionary\NSDictionary:{Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+JOXcflu~€‡šœ§©«­¯±³µ·¹»ÆÈÊÌÎĞÒÔÖØÚèó)@KPp{´Ïïõ!%;HKPTh             k              vO:{/*****************************************************************************
+ * javascript/ajax/utility.js
+ *
+ * Utility functions for working with XMLHttpRequest data.
+ *
+ * Copyright 2006 Board of Trustees of the Leland Stanford Junior University.
+ ****************************************************************************/
+
+/*
+ * Copy XML nodes into an HTMLElement. This effectively
+ * clones XML markup which uses XHTML naming conventions
+ * into an HTML DOM.
+ */
+function copy_xml_to_html(src, dst) {
+  if (src.nodeType == 1) { /* Node.ELEMENT_NODE */
+    var e = document.createElement(src.nodeName);
+    for (var i = 0; i < src.childNodes.length; i++) {
+	  copy_xml_to_html(src.childNodes[i], e);
+    }
+    for (var i = 0; i < src.attributes.length; i++) {
+      var n = src.attributes[i].name;
+      var v = unescape_xml_string(src.attributes[i].value);      
+      e.setAttribute(n, v);
+      if (n == "class") {
+        e.className = v;
+      }
+      else if (n == "style") {
+        set_css_style(v, e, "");
+      }
+    }
+    dst.appendChild(e);
+  }
+  else if (src.nodeType == 3) { /* Node.TEXT_NODE */
+    dst.appendChild(document.createTextNode(src.nodeValue));
+  }
+}
+
+/* 
+ * It is unclear that this is the right thing to be calling
+ * from copy_xml_to_html, but it appears that Safari decides
+ * to convert &amp; to the NCR &#35;, and then encodes that
+ * NCR to &%26%2338;.  So, I'm going to treat the DOM Attr
+ * value as a plain string, and run our XML string input
+ * through the decoding routine below.
+ */
+function unescape_xml_string(s) {
+  return s.replace(/&apos;/g, "'")
+          .replace(/&#39;/g,  "'")
+          .replace(/&quot;/g, "\"")
+          .replace(/&#34;/g,  "\"")
+          .replace(/&gt;/g,   ">")
+          .replace(/&#62;/g,  ">")
+          .replace(/&lt;/g,   "<")
+          .replace(/&#60;/g,  "<")
+          .replace(/&amp;/g,  "&")
+          .replace(/&#38;/g,  "&");
+}
+
+/*
+ * Parse set of CSS rules and apply them to an element.
+ * This is quite horrifying, but I'm unable to determine
+ * how else to handle this with IE 6.  FireFox and other
+ * sane browsers let you simply set the style attribute
+ * or use e.style.setProperty(rule, value, priority),
+ * IE 6 appears to have neither of these capabilities..
+ */
+function set_css_style(css, e, priority) {
+  var rules = css.split(";");
+  for (var i = 0; i < rules.length; i++) {
+    var nvpair = rules[i].split(":");
+    if (nvpair.length == 2) {
+      try {
+        var name  = nvpair[0]; /* style attribute */
+        var value = nvpair[1]; /* attribute value */
+  
+        /*
+         * For each possible style attribute, set the
+         * appropriate style property in the element.
+         */
+        if (name == "background") {
+           e.style.background = value;
+        }
+        else if (name == "background-attachment") {
+          e.style.backgroundAttachment = value;
+        }
+        else if (name == "background-color") {
+          e.style.backgroundColor = value;
+        }
+        else if (name == "background-image") {
+          e.style.backgroundImage = value;
+        }
+        else if (name == "background-position") {
+          e.style.backgroundPosition = value;
+        }
+        else if (name == "background-position-x") {
+          e.style.backgroundPositionX = value;
+        }
+        else if (name == "background-position-y") {
+          e.style.backgroundPositionY = value;
+        }
+        else if (name == "background-repeat") {
+          e.style.backgroundRepeat = value;
+        }
+        else if (name == "behavior") {
+          e.style.behavior = value;
+        }
+        else if (name == "border") {
+          e.style.border = value;
+        }
+        else if (name == "border-bottom") {
+          e.style.borderBottom = value;
+        }
+        else if (name == "border-bottom-color") {
+          e.style.borderBottomColor = value;
+        }
+        else if (name == "border-bottom-style") {
+          e.style.borderBottomStyle = value;
+        }
+        else if (name == "border-bottom-width") {
+          e.style.borderBottomWidth = value;
+        }
+        else if (name == "border-collapse") {
+          e.style.borderCollapse = value;
+        }
+        else if (name == "border-color") {
+          e.style.borderColor = value;
+        }
+        else if (name == "border-left") {
+          e.style.borderLeft = value;
+        }
+        else if (name == "border-left-color") {
+          e.style.borderLeftColor = value;
+        }
+        else if (name == "border-left-style") {
+          e.style.borderLeftStyle = value;
+        }
+        else if (name == "border-left-width") {
+          e.style.borderLeftWidth = value;
+        }
+        else if (name == "border-right") {
+          e.style.borderRight = value;
+        }
+        else if (name == "border-right-color") {
+          e.style.borderRightColor = value;
+        }
+        else if (name == "border-right-style") {
+          e.style.borderRightStyle = value;
+        }
+        else if (name == "border-right-width") {
+          e.style.borderRightWidth = value;
+        }
+        else if (name == "border-style") {
+          e.style.borderStyle = value;
+        }
+        else if (name == "border-top") {
+          e.style.borderTop = value;
+        }
+        else if (name == "border-top-color") {
+          e.style.borderTopColor = value;
+        }
+        else if (name == "border-top-style") {
+          e.style.borderTopStyle = value;
+        }
+        else if (name == "border-top-width") {
+          e.style.borderTopWidth = value;
+        }
+        else if (name == "border-width") {
+          e.style.borderWidth = value;
+        }
+        else if (name == "bottom") {
+          e.style.bottom = value;
+        }
+        else if (name == "clear") {
+          e.style.clear = value;
+        }
+        else if (name == "clip") {
+          e.style.clip = value;
+        }
+        else if (name == "color") {
+          e.style.color = value;
+        }
+        else if (name == "cssText") {
+          e.style.Sets = value;
+        }
+        else if (name == "cursor") {
+          e.style.cursor = value;
+        }
+        else if (name == "direction") {
+          e.style.direction = value;
+        }
+        else if (name == "display") {
+          e.style.display = value;
+        }
+        else if (name == "font") {
+          e.style.font = value;
+        }
+        else if (name == "font-family") {
+          e.style.fontFamily = value;
+        }
+        else if (name == "font-size") {
+          e.style.fontSize = value;
+        }
+        else if (name == "font-style") {
+          e.style.fontStyle = value;
+        }
+        else if (name == "font-variant") {
+          e.style.fontVariant = value;
+        }
+        else if (name == "font-weight") {
+          e.style.fontWeight = value;
+        }
+        else if (name == "height") {
+          e.style.height = value;
+        }
+        else if (name == "ime-mode") {
+          e.style.imeMode = value;
+        }
+        else if (name == "layout-flow") {
+          e.style.layoutFlow = value;
+        }
+        else if (name == "layout-grid") {
+          e.style.layoutGrid = value;
+        }
+        else if (name == "layout-grid-char") {
+          e.style.layoutGridChar = value;
+        }
+        else if (name == "layout-grid-line") {
+          e.style.layoutGridLine = value;
+        }
+        else if (name == "layout-grid-mode") {
+          e.style.layoutGridMode = value;
+        }
+        else if (name == "layout-grid-type") {
+          e.style.layoutGridType = value;
+        }
+        else if (name == "left") {
+          e.style.left = value;
+        }
+        else if (name == "letter-spacing") {
+          e.style.letterSpacing = value;
+        }
+        else if (name == "line-break") {
+          e.style.lineBreak = value;
+        }
+        else if (name == "line-height") {
+          e.style.lineHeight = value;
+        }
+        else if (name == "list-style") {
+          e.style.listStyle = value;
+        }
+        else if (name == "list-style-image") {
+          e.style.listStyleImage = value;
+        }
+        else if (name == "list-style-position") {
+          e.style.listStylePosition = value;
+        }
+        else if (name == "list-style-type") {
+          e.style.listStyleType = value;
+        }
+        else if (name == "margin") {
+          e.style.margin = value;
+        }
+        else if (name == "margin-bottom") {
+          e.style.marginBottom = value;
+        }
+        else if (name == "margin-left") {
+          e.style.marginLeft = value;
+        }
+        else if (name == "margin-right") {
+          e.style.marginRight = value;
+        }
+        else if (name == "margin-top") {
+          e.style.marginTop = value;
+        }
+        else if (name == "min-height") {
+          e.style.minHeight = value;
+        }
+        else if (name == "overflow") {
+          e.style.overflow = value;
+        }
+        else if (name == "overflow-x") {
+          e.style.overflowX = value;
+        }
+        else if (name == "overflow-y") {
+          e.style.overflowY = value;
+        }
+        else if (name == "padding") {
+          e.style.padding = value;
+        }
+        else if (name == "padding-bottom") {
+          e.style.paddingBottom = value;
+        }
+        else if (name == "padding-left") {
+          e.style.paddingLeft = value;
+        }
+        else if (name == "padding-right") {
+          e.style.paddingRight = value;
+        }
+        else if (name == "padding-top") {
+          e.style.paddingTop = value;
+        }
+        else if (name == "page-break-after") {
+          e.style.pageBreakAfter = value;
+        }
+        else if (name == "page-break-before") {
+          e.style.pageBreakBefore = value;
+        }
+        else if (name == "pixelBottom") {
+          e.style.pixelBottom = value;
+        }
+        else if (name == "pixelHeight") {
+          e.style.pixelHeight = value;
+        }
+        else if (name == "pixelLeft") {
+          e.style.pixelLeft = value;
+        }
+        else if (name == "pixelRight") {
+          e.style.pixelRight = value;
+        }
+        else if (name == "pixelTop") {
+          e.style.pixelTop = value;
+        }
+        else if (name == "pixelWidth") {
+          e.style.pixelWidth = value;
+        }
+        else if (name == "posBottom") {
+          e.style.posBottom = value;
+        }
+        else if (name == "posHeight") {
+          e.style.posHeight = value;
+        }
+        else if (name == "position") {
+          e.style.position = value;
+        }
+        else if (name == "posLeft") {
+          e.style.posLeft = value;
+        }
+        else if (name == "posRight") {
+          e.style.posRight = value;
+        }
+        else if (name == "posTop") {
+          e.style.posTop = value;
+        }
+        else if (name == "posWidth") {
+          e.style.posWidth = value;
+        }
+        else if (name == "right") {
+          e.style.right = value;
+        }
+        else if (name == "ruby-align") {
+          e.style.rubyAlign = value;
+        }
+        else if (name == "ruby-overhang") {
+          e.style.rubyOverhang = value;
+        }
+        else if (name == "ruby-position") {
+          e.style.rubyPosition = value;
+        }
+        else if (name == "scrollbar-3dlight-color") {
+          e.style.scrollbar3dLightColor = value;
+        }
+        else if (name == "scrollbar-arrow-color") {
+          e.style.scrollbarArrowColor = value;
+        }
+        else if (name == "scrollbar-base-color") {
+          e.style.scrollbarBaseColor = value;
+        }
+        else if (name == "scrollbar-darkshadow-color") {
+          e.style.scrollbarDarkShadowColor = value;
+        }
+        else if (name == "scrollbar-face-color") {
+          e.style.scrollbarFaceColor = value;
+        }
+        else if (name == "scrollbar-highlight-color") {
+          e.style.scrollbarHighlightColor = value;
+        }
+        else if (name == "scrollbar-shadow-color") {
+          e.style.scrollbarShadowColor = value;
+        }
+        else if (name == "scrollbar-track-color") {
+          e.style.scrollbarTrackColor = value;
+        }
+        else if (name == "float") {
+          e.style.styleFloat = value;
+        }
+        else if (name == "table-layout") {
+          e.style.tableLayout = value;
+        }
+        else if (name == "text-align") {
+          e.style.textAlign = value;
+        }
+        else if (name == "text-align-last") {
+          e.style.textAlignLast = value;
+        }
+        else if (name == "text-autospace") {
+          e.style.textAutospace = value;
+        }
+        else if (name == "text-decoration") {
+          e.style.textDecoration = value;
+        }
+        else if (name == "textDecorationBlink") {
+          e.style.textDecorationBlink = value;
+        }
+        else if (name == "textDecorationLineThrough") {
+          e.style.textDecorationLineThrough = value;
+        }
+        else if (name == "textDecorationNone") {
+          e.style.textDecorationNone = value;
+        }
+        else if (name == "textDecorationOverline") {
+          e.style.textDecorationOverline = value;
+        }
+        else if (name == "textDecorationUnderline") {
+          e.style.textDecorationUnderline = value;
+        }
+        else if (name == "text-indent") {
+          e.style.textIndent = value;
+        }
+        else if (name == "text-justify") {
+          e.style.textJustify = value;
+        }
+        else if (name == "text-kashida-space") {
+          e.style.textKashidaSpace = value;
+        }
+        else if (name == "text-overflow") {
+          e.style.textOverflow = value;
+        }
+        else if (name == "text-transform") {
+          e.style.textTransform = value;
+        }
+        else if (name == "text-underline-position") {
+          e.style.textUnderlinePosition = value;
+        }
+        else if (name == "top") {
+          e.style.top = value;
+        }
+        else if (name == "unicode-bidi") {
+          e.style.unicodeBidi = value;
+        }
+        else if (name == "vertical-align") {
+          e.style.verticalAlign = value;
+        }
+        else if (name == "visibility") {
+          e.style.visibility = value;
+        }
+        else if (name == "white-space") {
+          e.style.whiteSpace = value;
+        }
+        else if (name == "width") {
+          e.style.width = value;
+        }
+        else if (name == "word-break") {
+          e.style.wordBreak = value;
+        }
+        else if (name == "word-spacing") {
+          e.style.wordSpacing = value;
+        }
+        else if (name == "word-wrap") {
+          e.style.wordWrap = value;
+        }
+        else if (name == "writing-mode") {
+          e.style.writingMode = value;
+        }
+        else if (name == "z-index") {
+          e.style.zIndex = value;
+        }
+        else if (name == "zoom") {
+          e.style.zoom = value;
+        }
+      }
+      catch (e) {
+        /* ignore error on attempt to set e.style.[property] */
+      }
+    }
+  }
+}
+Ô*+,_<http://scan.oxfordjournals.org/javascript/entrez/callback.jsOlbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_<http://scan.oxfordjournals.org/javascript/entrez/callback.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@÷ŞµÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Thu, 27 Apr 2006 17:39:26 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2_application/x-javascript_Tue, 06 Jan 2009 05:06:09 GMTT1792^xrdn2gn312.JS1_"4d00-700-445101ce"Ò./cd£de2_NSMutableDictionary\NSDictionary Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+MR[fioxƒŠ’Ÿª¬®°²´¶¸º¼¾ÉËÍÏÑÓÕ×ÙÛİëö,CNSs~„·Òò÷!%;HKPTh             k              vO /*****************************************************************************
+ * javascript/entrez/callback.js
+ *
+ * Entrez Linking callback to populate content box.
+ *
+ * Copyright 2006 Board of Trustees of the Leland Stanford Junior University.
+ ****************************************************************************/
+
+/*
+ * Execute callback to fill content box with Entrez Linking information.
+ */
+function entrez_callback(pmid, callback_url) {
+  /*
+   * MSIE 5.5 and below have issues with the JavaScript
+   * used for Entrez Linking. For now we have to disable
+   * the callback until we can track down a proper fix
+   * (or everybody sanely upgrades to version 6 or 7!).
+   */
+  if (navigator) {
+    var appname = navigator.appName;
+    if (appname == "Microsoft Internet Explorer") {
+      var userAgent = navigator["userAgent"];
+      var s = "MSIE ";
+      var n = -1;      
+      if ((n = userAgent.indexOf(s)) != -1) {
+        var v = parseFloat(userAgent.substring(n+s.length));
+        if (v < 6) {
+          return;
+        }
+      }
+    }
+  }
+
+  /*
+   * Acquire table row element to update, initiate callback
+   * to update table with Entrez Links.
+   */
+  var tr = document.getElementById('entrez_callback_'+pmid);
+  if (!tr) {
+    return;
+  }
+  var req = new XMLHttpRequest();
+  if (!req) {
+    return;
+  }
+  req.onreadystatechange = function() {
+    if (req.readyState == 4 && (req.status == 200 || req.status == 304)) {
+      var src = req.responseXML.documentElement;
+      var dst = document.createDocumentFragment();
+      for (var i = 0; i < src.childNodes.length; i++) {
+      	copy_xml_to_html(src.childNodes[i], dst);
+      }
+      var tbl = tr.parentNode;
+      tbl.replaceChild(dst, tr);
+    }
+  }
+  req.open('GET', callback_url, true);
+  req.send(null);
+}
+Ô./01_5http://scan.oxfordjournals.org/icons/banner/title.gifOVbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_5http://scan.oxfordjournals.org/icons/banner/title.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&A#VÒgÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Tue, 18 Apr 2006 22:55:08 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:08:26 GMTT2333^xrdn2gn312.JS1_"1723ec-91d-44456e4c"Ò./cd£de2_NSMutableDictionary\NSDictionary	Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+FKT_bhqz|ƒ‹–˜£¥§©«­¯±³µ·ÂÄÆÈÊÌÎĞÒÔÖäïı%<GLlw}°ºÚßî%25:>R             k              `Yimage/gifO	GIF89aÜ , ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   p""z33…DDUU™ff£ww­ˆˆ¸™™ÂªªÌ»»ÖÌÌàİİëîîõÿÿÿ                                                                           !ù  æ ,    Ü ,  ÿ «	H° Áƒ*\È°¡Ã‡#JœH±¢Å‹3jÜÈ±£Ç CŠI²¤É“(SªLè€KpŞ¾Mü ›Bq.Å%äÎ%€oÚ¶më˜­Ü8l‹])°›OpL)¶Z ¨ÉĞ©°ÜV„VÇiØ ÕNÍL{v%¶—Q%b+ÇUà7¬iÚT¨µ.Ašå²Ô¦–£R¤v©[.ã‡Û C\›L}fsÎ ·¶¹~<Ğ1i†›”Û;2sAš ¼©Œ<ú´éÓqº,'›`ÙØ¾}Ê¶*Y ·qÂ»&¨››ÂmºÅ%ëÕ'€Ô5{ş¬†½vÉİi»ÿ¬¦U-7­«O^5g7¯ä¦cÓ/n…ó­“\§lšXá$“VÎÁW ãTæÕeË¤hE6YQåŒÕR9Ø\ˆTY:g¡K6±EˆÕ”…Õ8²µ¤SK½ôV‚smWMuÛ¤ÖY5ÈÉD›}÷)Än_‰v]5„™•R=¥9•‘ƒa_‘%s.A8rXõ¤Sf´9—VˆUVó¥˜a’Y“@èa““3Y‚aã$R8qµ$š_Ñ6İm=.¤n–ÇKŞgĞeˆ\”ÚE(Bo×^98æé’—$Š8¦ˆfî•V¡6}çÓAŠæ„'›™•…Ÿ}ÔhZeÿ›@©êe§(–kVCÛEÚ›U”Š†¡†š9Ô¦e‰g9O¦vB-íÊhqR®x«@¬¶ÚœW2)¤`EnSk¹¦¥äµ~¤3–i)xáLÇ¬ZûRå¬™-zÕ®«.­k'¶™	¹çUŞ®µU-9å Üˆ\|¾¨Z‰U… R^[POäPõ#UªéÕXÛ”#qpg–å\Y²uéM644ç@çÉcY5†2¶!ã)SYÀ6<P7ßü&N[¿µˆqäØDÜUÙàTõ…İ ÙbA<=¯¯ÑMWOãÔh]Z.}'XOå¨í¼Ş|-fyÓ”µdİpÿ}58@Bµ·Ëåñ¨ôámsön¸"îøã‘c_KCnùå½%bØˆ30æ ‡ö¢ªÙ-úé¨§®úê¬·îúë°Ç.ûì´×ĞŸ¥5`º-‘^a—ôÕ¾G|íV†ä<­šœŸ?ÔkDlç}Ş}Ó»cŞîçMŞQ6ÀoÑÕ/g}Ÿù²§õ$•“‘Ör&İĞ8ÑŸOútêÛŞ#Š$‚Ÿƒ°‘:yD^ºÙwòç¿•h£3EÈâº1ÁÊ'tN{|ÒªA‰PiÑÉÔ8S¼ªlCN.IPÿªqÕØD<ô‰Üj‚“EgœÁ`S
+7BlõP‡ÄÇ{ÿ$3=Ê‚$$8fV&hm€lBá	Ë1( ÎYP8¤ó`CŠs©bAäE¤ê€£*âXŠH›e¹¤dmóO5 D&ÙdM0ÕjL¶¨•)V‘F6râvF*V.%r¢Õm(H6]HÜ8R5’”-	bëSU±É#¡ô²x™Ì'ßàŠWj† dÍW
+Ç8ÆE¤*©ˆ2©a¢lî´Iœda_‘d’j‰EÆ°Í:”a$”Øt5áª ËA””*DLë‘ d‘©D51’6¬™Õ bã±Š…S–dR1…¨Ì3^Î”TTÄ2!µH˜Œ$®ä‰Ì))Ó}ÃÚVB¢Yú¯i~¯ Ö6¢ÍZU6 ĞFZ:)%qê3œxêĞC7xÈ•lCdË„¢Fµ Z².Ê\&bN¹OĞ G”Sj
+‰®éQV–‹ =ñF‘xDË&æª’=Ãamâ2û-ŠAD
+—âç\ŒeÎÁÉQdãJ-MCİCûƒ.îĞEš6ÑTÜ‰E1Q›cÅ29"›ÀÆ98k¥¢Z"±)‚GÍ[‹•ªÔ:¶’a1‡’â¤-QTÛKËÆú7‰‘V~xÚ…»şS üÍw&§Á9~£<-ºaaûšÂ¡ü-pHäb;ÛÀÒšö´¨M­jWËÚÖºöµ	 ;Ô3405_/http://scan.oxfordjournals.org/icons/spacer.gifOLbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_/http://scan.oxfordjournals.org/icons/spacer.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@\ÄÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Tue, 18 Apr 2006 18:02:17 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:10 GMTR43^xrdn2gn312.JS1_"1723ea-2b-444529a9"Ò./cd£de2_NSMutableDictionary\NSDictionary+Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+@ENY\bktv}…’Ÿ¡£¥§©«­¯±¼¾ÀÂÄÆÈÊÌÎĞŞé÷ş6AFfqwª´Ô×æı)+04H             k              VO+GIF89a  €  ÿÿÿ   !ù    ,      @D ;Ô7809_?http://scan.oxfordjournals.org/icons/shared/misc/bigtrirevT.gifO[bplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_?http://scan.oxfordjournals.org/icons/shared/misc/bigtrirevT.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&A#KLÂÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Mon, 21 Apr 2003 19:38:48 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:08:26 GMTR84^xrdn2gn312.JS1_"14abe-54-3ea448c8"Ò./cd£de2_NSMutableDictionary\NSDictionaryTÒ./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+PU^ilr{„†• ¢­¯±³µ·¹»½¿ÁÌÎĞÒÔÖØÚÜŞàîù /FQVv‡ºÄäçö+8:?CW             k              eOTGIF89a  €    ÿÿÿ!ù   ,      @+ŒíÎŞK4¬*³®vò~E’¢A`ImŸ¹†)+Â§7åt³y‚¾´ïÂ 
+ ;Ô;<0=_?http://scan.oxfordjournals.org/icons/shared/misc/arrowTtrim.gifO[bplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_?http://scan.oxfordjournals.org/icons/shared/misc/arrowTtrim.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@ØÜÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Tue, 17 Feb 2004 20:03:19 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:10 GMTR51^xrdn2gn312.JS1_"14ab8-33-40327387"Ò./cd£de2_NSMutableDictionary\NSDictionary3Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+PU^ilr{„†• ¢­¯±³µ·¹»½¿ÁÌÎĞÒÔÖØÚÜŞàîù /FQVv‡ºÄäçö+8:?CW             k              eO3GIF89a 	 € fffÿÿÿ!ù   ,     	  
+Œ‰Û›aÇ ;Ô?@0A_8http://scan.oxfordjournals.org/icons/shared/toc/free.gifOTbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_8http://scan.oxfordjournals.org/icons/shared/toc/free.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@`úYÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Mon, 16 Sep 2002 23:43:09 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:11 GMTR76^xrdn2gn312.JS1_"15072-4c-3d866c8d"Ò./cd£de2_NSMutableDictionary\NSDictionaryLÒ./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+INWbekt}†™›¦¨ª¬®°²´¶¸ºÅÇÉËÍÏÑÓÕ×Ùçò (?JOoz€³½İàï
+$138<P             k              ^OLGIF89a   € Ö4ÿÿÿ!ù   ,       @#Œ©« éLóTøĞÜÙv†¡CJdwf)V­f[b2¥oU  ;ÔCD0E_Ehttp://scan.oxfordjournals.org/icons/shared/socbookmark/citeulike.gifOabplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_Ehttp://scan.oxfordjournals.org/icons/shared/socbookmark/citeulike.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@å˜áÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Wed, 23 May 2007 16:46:35 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:10 GMTR84^xrdn2gn312.JS1_"1502a-54-46546feb"Ò./cd£de2_NSMutableDictionary\NSDictionaryTÒ./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+V[dorxŠŒ“›¦¨³µ·¹»½¿ÁÃÅÇÒÔÖØÚÜŞàâäæôÿ!&5LW\|‡ÀÊêíü1>@EI]             k              kOTGIF89a  ‘  'Íÿÿÿÿÿÿ   !ù   ,      @%D™`ìï“°Ò«ÎÜŞ™}M÷ˆ$G#–¡ªûŠ¡ü®5;#@ ;ÔGH0I_Dhttp://scan.oxfordjournals.org/icons/shared/socbookmark/connotea.gifOcbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_Dhttp://scan.oxfordjournals.org/icons/shared/socbookmark/connotea.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@ÊÃÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Mon, 14 May 2007 18:36:49 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:10 GMTS959^xrdn2gn312.JS1_"1502d-3bf-4648ac41"Ò./cd£de2_NSMutableDictionary\NSDictionary¿Ò./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+UZcnqw€‰‹’š¥§²´¶¸º¼¾ÀÂÄÆÑÓÕ×ÙÛİßáãåóş %4KV[{†Œ¿Ééíü2?BGK_             k              mO¿GIF89a  ÷  ”¥µœ­½œµ½¥µÆ­½ÆµÆÎ½ÆÎÆ1Æ!9ÆÎÖÎÖŞÖJZÖRcÖcsÖŞçÖçïŞs„ŞçççŒœçœ¥çïïï¥­ï­µï½½ï÷÷÷ÎÖ÷ŞŞ÷÷÷÷ÿÿÿççÿïïÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,       ¤ ?h  €
+Ä€á *!€"œ(‚Á†pØ R 
+(5hğ 0€>p   æ‡ğP ÀÁ4<`‚8ô8ÀæÍ:t`Ğ ™O+4úÁ¥ /Üœ°à€ø™‚›JR0`ƒS8Mèq S``¯Âª8V¨‘À†‰ ;ÔKL0M_Ehttp://scan.oxfordjournals.org/icons/shared/socbookmark/delicious.gifOdbplist00Ô	
+X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯ &,-345OPQRSTUVWXYZ[\]^_`PabfgU$nullİ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_Ehttp://scan.oxfordjournals.org/icons/shared/socbookmark/delicious.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A®&@~!uÈÓ6789DWNS.keysZNS.objects€ª:;<=>?@ABC€	€
+€€€€€€€€ªEFGHIJKLMN€€€€€€€€€€]Last-ModifiedZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-Length_X-Highwire-SessionidZConnectionTEtag_Mon, 14 May 2007 18:36:49 GMTZtimeout=15Ubytes_0Apache/1.3.26 (Unix) DAV/1.0.3 ApacheJServ/1.1.2Yimage/gif_Tue, 06 Jan 2009 05:06:10 GMTS866^xrdn2gn312.JS1_"1502e-362-4648ac41"Ò./cd£de2_NSMutableDictionary\NSDictionarybÒ./hi£ij2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d ‡  ¨ ¯ ² µ ¹ ½ À Ã Æ É Ì Ï Ò Õ × Ù Û İ ß á ã å ç é ë í ô ü
+V[dorxŠŒ“›¦¨³µ·¹»½¿ÁÃÅÇÒÔÖØÚÜŞàâäæôÿ!&5LW\|‡ÀÊêîı3@CHL`             k              nObGIF89a  ÷     ÿÿÿİİİ  ÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ,       G H° Áƒ	XÈp!Â†Btxp"EƒHœ¸bÇ† BŠ) ¤É’#G<™RäJ“-I¾ÀLš1oÖÔ™sf@ ;        5  @  O  m  ƒ  •  ¬  á  ç  ñ ú     ) ¶ i i' i5 i> iT iŒ má mê nL nU nŠ ró s ³ ¼ ÿ “u ´C ´L ´ˆ ¸ø ów ó€ ó¿ ø/ ÿ3 ÿ< ÿtÎØù4„²»ı\³¼ş]“œ× / ~ ‡ Ï%4%‹%”%Û*B...V2¾             N             6$
